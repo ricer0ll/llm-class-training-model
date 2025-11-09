@@ -210,3 +210,7 @@ lora_model/
 outputs/
 .venv/
 unsloth_compiled_cache/
+llama.cpp/
+*.gguf
+Modelfile
+model/
